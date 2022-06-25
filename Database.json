@@ -1,0 +1,12 @@
+{
+    "name": "Pricing",
+    "tables": [
+        {
+            "name": "Tiers",
+            "hasKey": true,
+            "columns": [
+                
+            ]
+        }
+    ]
+}
